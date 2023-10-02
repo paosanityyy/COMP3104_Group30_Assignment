@@ -1,1 +1,4 @@
 Course Name: DevOps
+Course Code: COMP 3104
+Professor: Pritesh Patel
+Schedule: Wednesday 6:00pm - 9:00pm

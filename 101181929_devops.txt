@@ -1,1 +1,4 @@
 DevOps is a fun course with a great Professor named Pritesh Patel.
+
+DevOps Course Code: COMP3104
+Class Schedule: Wednesday, 6:00pm - 8:59pm, Online

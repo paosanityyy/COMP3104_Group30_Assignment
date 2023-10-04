@@ -1,4 +1,9 @@
 # READ ME
+# Group 30
+- Van Dexter Perez
+- Christian Paolo Casison
+- Allanis Joice Electra Sumaya
+- Milanie Bano
 
 This file is an Assignment 1 for Dev Ops
 

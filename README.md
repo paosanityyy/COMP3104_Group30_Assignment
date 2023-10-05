@@ -3,10 +3,10 @@ Group 30
 Assignment 1 for DevOps
 
 Members:
-Allanis Joice Electra Sumaya,
-Christian Paolo Casison,
-Van Dexter Perez,
-Milanie Bano
+Allanis Joice Electra Sumaya - 101308759,  
+Christian Paolo Casison - 101384585,  
+Van Dexter Perez - 101181929,  
+Milanie Bano - 101355992
 
 Each member should create 3 text files in their repository.
 

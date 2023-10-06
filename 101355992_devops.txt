@@ -1,0 +1,2 @@
+The COMP 3104 Devops course is a course that teaches us how to approach software development, and how development teams
+collaborate with the operations team.

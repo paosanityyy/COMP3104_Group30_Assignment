@@ -1,5 +1,4 @@
 # Christian Paolo Casison - 101384585
-=======
 # Group 30
 
 Assignment 1 for DevOps

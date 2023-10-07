@@ -1,1 +1,3 @@
 Course: Devops
+Course Code: COMP3104
+Professor: Pritesh Patel

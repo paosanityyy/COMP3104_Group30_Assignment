@@ -7,6 +7,6 @@ DevOps is vital in modern software development because it:
 6. Offers scalability and flexibility.
 7. Reduces costs.
 8. Provides real-time monitoring and feedback.
-9. Gives businesses a competitive edge.
+9. Gives businesses a competitive edge. 
 
 Learning DevOps is essential for faster, more efficient, and competitive software development. 
